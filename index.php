@@ -23,3 +23,5 @@ function animal_catch(){
                 echo $animal_speed[$random_key1]['animal'];
         }
    // }
+}
+animal_catch();
